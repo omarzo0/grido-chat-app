@@ -16,7 +16,7 @@ grido is chat application build with the power of MERN Stack. You can find the t
 Both should be installed and make sure mongodb is running.
 
 ```shell
-cd chat-app-react-nodejs
+cd grido-chat-app
 ```
 
 Now rename env files from .env.example to .env
